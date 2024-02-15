@@ -1,1 +1,1 @@
-# Indian_Crime_data_analysis_Inferential_Statistics
+# Descriptive_Inferential_Statistics_Indian_Crime_data_analysis
